@@ -1,4 +1,7 @@
 # Image-Encryption-and-Authentication
+
+## Please Provide Credit to Vrishab Srivatsa if you intend to use this for your research/project or academic purposes.
+
 The proposed image encryption/authentication technique mainly involves the concepts of XOR of RGB components of the pixels in the image, in a cipher block chaining mode followed by elementary row and column transformations.
 
 The initialisation vector here is nothing but the transformed secret key, which itself is an array consisting of the ASCII values of the hexadecimal hash digest of the entered key. For instance, let’s consider the secret key: “Password123”
