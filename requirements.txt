@@ -8,7 +8,7 @@ ImageHash==4.1.0
 importlib-metadata==2.0.0
 kiwisolver==1.2.0
 matplotlib==3.3.2
-numpy==1.19.2
+numpy==1.22.0
 opencv-python==4.4.0.44
 Pillow==8.0.1
 pyparsing==2.4.7
